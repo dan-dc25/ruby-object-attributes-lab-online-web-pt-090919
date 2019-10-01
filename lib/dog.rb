@@ -13,6 +13,6 @@ class Dog
   end
 
   def breed
-    @breeed
+    @breed
   end
 end
